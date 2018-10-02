@@ -1,0 +1,71 @@
+Unraveling a Tesla Mystery: Lots (and Lots) of Parked Cars
+
+Elon Musk’s settlement of a securities-fraud case has removed a cloud over the company and its leader. But another remains: how its electric-car production is measuring up against Mr. Musk's ambitious forecasts, a matter that a federal regulator is still investigating.
+
+One group of internet sleuths thinks it has found clues in plain sight, pointing to lots and garages in California, New Jersey, Arizona and other states where Tesla cars have been found parked in large numbers.
+
+The group’s efforts to document those sites could shed light on the delivery troubles that the Tesla chief has acknowledged, and reveal whether demand for the company’s cars is as high as he has suggested.
+
+Since July, Tesla has been parking anywhere from a couple of dozen to a few hundred cars at a lot in Burbank, Calif. In Lathrop, 70 miles east of San Francisco, Tesla has as many as 400 cars at an industrial site. A similar number turned up outside an industrial building nearby. At times cars have been seen entering and leaving the building, suggesting it may be a collection point or repair center.
+
+Hundreds more have been found in Antioch, northeast of San Francisco. On Thursday, a batch of about 100 Model 3s turned up in Bellevue, Wash. Smaller collections have surfaced in Chicago, Dallas, Las Vegas and Salt Lake City.
+
+How have the clues been collected?
+The parked vehicles were discovered over the last two months by the amateur detectives, who in at least some cases are also investors betting that Tesla’s share price will fall. Some have flown drones over the parking lots to take pictures of the cars. At least one has access to a plane and shoots high-resolution photographs from the air. They post the photos on Twitter and have taken to calling themselves the Shorty Air Force.
+
+The sleuths — including three interviewed for this article, who asked not to be identified — say they feel Mr. Musk has not been candid about the company’s situation, particularly its sales.
+
+A Tesla spokesman, Dave Arnold, said by email that the large lots of vehicles were “logistics transit hubs” and added, “Anyone observing those lots will see a change from one day to the next.” (He said Monday that the cars in Bellevue were awaiting delivery. Photos posted online on Sunday show hoods open, possibly indicating maintenance work.)
+
+As the sightings continue, here are some of the things worth watching.
+
+Do the cars simply reflect a delivery problem?
+Mr. Musk recently acknowledged that the company was having difficulty shipping cars to customers, saying Tesla was in “delivery logistics hell.”
+
+He attributed the problem to a shortage of trucks to haul cars around the country.
+
+“That’s total nonsense,” said Mark B. Spiegel, a managing partner at Stanphyl Capital, which has a large position shorting Tesla. He is a vocal critic of the company and Mr. Musk on Twitter. “A quick search would reveal plenty of car hauler capacity. Perhaps Tesla doesn’t have the cash to pay for them.”
+
+The Auto Haulers Association of America is not aware of any shortage of car haulers, nor of any other automakers that are having trouble shipping new vehicles. “There’s quite a few carrier companies in California,” said Guy Young, the association’s general manager.
+
+Mr. Musk also said last week that Tesla had started producing its own trailers to transport cars to customers. Tesla has declined to say where the trailers are being made and whether the design has been approved by the Federal Motor Carrier Safety Administration, which regulates buses and transport vehicles.
+
+Mike Ramsey, an auto analyst at Gartner, said he surmised that Tesla, in some cases, was simply gathering cars together before shipping them to customers, or bringing cars with defects together to repair them before delivery.
+
+If so, that suggests Tesla failed in a critical task: It didn’t set up an efficient way of delivering hundreds of cars a day as it was scrambling to produce 5,000 a week. “How can you not have this in place beforehand?” Mr. Ramsey said. “It’s not like this is unexpected demand. They should have had logistics in place in advance.”
+
+Is demand softer than it looks?
+A more worrisome problem would be if Tesla built these cars and now doesn’t have customers willing to take them. Mr. Musk had long promised that the Model 3 would be available for as little as $35,000. But the least costly version available now starts at $49,000, and the price nears $60,000 if a customer wants the Autopilot driver-assistance software and other options.
+
+The company has said that more than 400,000 customers are waiting to buy Model 3 sedans, and that each paid a $1,000 deposit. Many who put down deposits may be waiting for the more affordable base model.
+
+Holding inventory is itself an issue for Tesla. The company has reported that it is selling almost all of the cars it is making. Each quarter, the number produced was close to the number delivered or in transit.
+
+Brian Johnson, an analyst at Barclays Capital who follows Tesla, said he suspected that the company had a mismatch between inventory and demand — that it had built more rear-wheel drive Model 3s than it could sell. He noted that Tesla was telling customers that it could deliver rear-wheel drive models in four weeks but that all-wheel-drive and pricier versions require waits of four to 12 months.
+
+“That suggests there is unmatched rear-wheel-drive inventory,” he said.
+
+At the same time, Tesla has been offering sales enticements to lure buyers. In July it offered free lifetime use of its network of fast-charging stations to customers who bought the “performance” version of the Model 3, which starts at $64,000. The company extended the program several times before ending it on Sept. 18. Mr. Musk acknowledged in a tweet that the offer was not economically “sustainable.”
+
+The company also held a “sales event” in early September at its factory in Fremont, Calif., where potential customers could browse among a few hundred Model 3s and pick one to buy. Later in the month the company sent emails offering free overnight test drives of its Model S luxury sedan and its Model X sport-utility vehicle, another move that suggests Tesla is trying to stimulate demand.
+
+Are there quality or parts issues?
+In some cases, cars have been marked — with a bar-coded sticker or with grease pencil on the windshield — to indicate that they are inventory vehicles, meaning they have no customers awaiting them. Some markings indicate repairs required before the cars can be sold, like scratches, dents or components that don’t work.
+
+That was the case with cars in a lot in Scottsdale, Ariz., that was photographed in mid-September by The New York Times.
+
+Mr. Arnold, the Tesla spokesman, declined to explain why those cars were being stockpiled and how they figured into the company’s production numbers.
+
+In the rush to ramp up Model 3 production, Tesla has faced growing issues with vehicle quality. Some customers have complained that cars arrived with scratches, loose parts and other manufacturing defects.
+
+Over the summer, Tesla advertised online for technicians to repair vehicles coming off the assembly line, suggesting that a significant number needed reworking.
+
+That may dovetail with a new headache that has cropped up: severe shortages of replacement parts. Some owners needing collision repairs have complained of waiting a month or longer for new bumpers, centers, door panels and taillights to arrive.
+
+Tesla said recently that a solution was on the way: a chain of proprietary body shops to speed repairs.
+
+Gabe Hoffman, general partner at Accipiter Capital Management, a hedge fund that has shorted Tesla stock, said he was skeptical that the company would follow through. “It would be spending money they don’t have,” he said.
+
+The long wait for parts suggests that Tesla has none or very few on hand. “To me, that shows a company in financial crisis,” Mr. Hoffman said.
+
+Some answers may be on the way. In the coming days Tesla is expected to report production and delivery data for the last three months. A closer look at the company will come in about a month when it presents its third-quarter earnings. It’s a report the Securities and Exchange Commission is likely to scrutinize.

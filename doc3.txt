@@ -1,0 +1,66 @@
+Detailed New National Maps Show How Neighborhoods Shape Children for Life
+
+SEATTLE — The part of this city east of Northgate Mall looks like many of the neighborhoods that surround it, with its modest midcentury homes beneath dogwood and Douglas fir trees.
+
+Whatever distinguishes this place is invisible from the street. But it appears that poor children who grow up here — to a greater degree than children living even a mile away — have good odds of escaping poverty over the course of their lives.
+
+Believing this, officials in the Seattle Housing Authority are offering some families with housing vouchers extra rent money and help to find a home here: between 100th and 115th Streets, east of Meridian, west of 35th Avenue. Officials drew these lines, and boundaries around several other Seattle neighborhoods, using highly detailed research on the economic fortunes of children in nearly every neighborhood in America.
+
+The research has shown that where children live matters deeply in whether they prosper as adults. On Monday the Census Bureau, in collaboration with researchers at Harvard and Brown, published nationwide data that will make it possible to pinpoint — down to the census tract, a level relevant to individual families — where children of all backgrounds have the best shot at getting ahead.
+This work, years in the making, seeks to bring the abstract promise of big data to the real lives of children. Across the country, city officials and philanthropists who have dreamed of such a map are planning how to use it. They’re hoping it can help crack open a problem, the persistence of neighborhood disadvantage, that has been resistant to government interventions and good intentions for years.
+
+Nationwide, the variation is striking. Children raised in poor families in some neighborhoods of Memphis went on to make just $16,000 a year in their adult households; children from families of similar means living in parts of the Minneapolis suburbs ended up making four times as much.
+
+The local disparities, however, are the most curious, and the most compelling to policymakers. In one of the tracts just north of Seattle’s 115th Street — a place that looks similarly leafy, with access to the same middle school — poor children went on to households earning about $5,000 less per year than children raised in Northgate. They were more likely to be incarcerated and less likely to be employed.
+
+The researchers believe much of this variation is driven by the neighborhoods themselves, not by differences in what brings people to live in them. The more years children spend in a good neighborhood, the greater the benefits they receive. And what matters, the researchers find, is a hyper-local setting: the environment within about half a mile of a child’s home.
+At that scale, these patterns — a refinement of previous research at the county level — have become much less theoretical, and easier to act on.
+
+“That’s exciting and inspiring and daunting in some ways that we’re actually talking about real families, about kids growing up in different neighborhoods based on this data,” said the Harvard economist Raj Chetty, one of the project’s researchers, along with Nathaniel Hendren at Harvard, John N. Friedman at Brown, and Maggie R. Jones and Sonya R. Porter at the Census Bureau.
+
+The Seattle and King County housing authorities are testing whether they can leverage their voucher programs to move families to where opportunity already exists. In Charlotte, where poverty is deeper and more widespread, community leaders are hoping to nurse opportunity where it’s missing.
+
+In other communities, the researchers envision that this mapping could help identify sites for new Head Start centers, or neighborhoods for “Opportunity Zones” created by the 2017 tax law. Children from low-opportunity neighborhoods, they suggest, could merit priority for selective high schools.
+
+For any government program or community grant that targets a specific place, this data proposes a better way to pick those places — one based not on neighborhood poverty levels, but on whether we expect children will escape poverty as adults.
+
+That metric is both more specific and more mysterious. Researchers still don’t understand exactly what leads some neighborhoods to nurture children, although they point to characteristics like more employed adults and two-parent families that are common among such places. Other features like school boundary lines and poverty levels often cited as indicators of good neighborhoods explain only half of the variation here.
+
+“These things are now possible to think about in a different way than you thought about them before,” said Greg Russ, the head of the Minneapolis Public Housing Authority, which is also planning to use the data. “Is opportunity a block away? These are the kind of questions we can ask.”
+
+The answers shown here are based on the adult earnings of 20.5 million children, captured in anonymous, individual-level census and tax data that links each child with his or her parents. That data covers nearly all children in America born between 1978 and 1983, although the map here illustrates the subset of those children raised in poorer families. The research offers a time-lapse view of what happened to them: who became a teenage mother, who went to prison, who wound up in the middle class, and who remained trapped in poverty for another generation.
+
+Few of the children from Northgate still live in the neighborhood, but the data traces their outcomes as adults today back to the place that helped shape them.
+
+The patterns broadly hold true for children growing up today, the researchers believe, even though the data reflects the experience of people now in their 30s. In rapidly changing cities like Seattle, some neighborhoods will look quite different now. So in drawing their opportunity maps, the housing authorities here, working with Mr. Chetty’s team, also considered indicators like poverty rates and test scores for poor students today.
+
+The researchers argue, however, that this data that looks back over the last 30 years can reveal something about a place that’s not captured in snapshots of its conditions today.
+
+In Seattle, that picture confirmed what housing officials feared — that their voucher holders had long been clustered in neighborhoods offering the least upward mobility.
+“It really struck us as, well, we are contributing to this problem, not solving the problem,” said Andrew Lofton, the executive director of the Seattle Housing Authority.
+
+Here the response means offering some of those families more choices in where to live. But that solution won’t help every child, or even many of them. The larger question is how to convert struggling neighborhoods into places where poor children are likely to thrive.
+
+In other regions, the differences between such places are more visible than in Seattle.
+
+In the Charlotte area, Ophelia Garmon-Brown, a longtime family physician, sees in these maps clear traces of where the fewest jobs are, where the high-poverty schools are, where African-American families live.
+
+“You could drive from your home in south Charlotte to your banking job downtown and never see poverty, because we’re so segregated,” said Dr. Garmon-Brown, who grew up poor herself, in Detroit. “In some of this, we have to admit that was intentional.”
+
+The earlier research showed Charlotte as among the worst large metropolitan areas in the country in creating opportunity for poor children, a realization that prompted the community to create a task force co-chaired by Dr. Garmon-Brown. At this finer scale, parsing outcomes by race and neighborhood, poor white children in Charlotte have had more opportunity than poor black children, even when they’ve grown up in the same neighborhoods. In many parts of the region, however, their worlds simply don’t overlap.
+
+In other communities, what separates neighborhoods is probably tied to incarceration. Included in the new census data are neighborhood-level rates of children who were later counted in the census in prisons or jails on April 1, 2010.
+
+About 1.5 percent of the entire cohort, adults then in their late 20s to early 30s, were incarcerated on that single day. For some neighborhoods in Milwaukee or New Haven, that number was far higher: As many as one in four poor black boys growing up in those places were incarcerated. Their neighborhoods — or something about how those neighborhoods were policed — sent more poor children into prison than out of poverty.
+
+Underscoring how difficult it will be to transform these places, the federal government has spent billions in struggling neighborhoods over the years, funneling as much as $500 million into some individual census tracts since 1990, according to a tally by researchers of major placed-based initiatives like block grants and housing redevelopment programs.
+
+“And yet we’ve never been able as a country to fully know whether and to what degree those investments were efficacious,” said Kathryn Edin, a Princeton sociologist.
+
+Ms. Edin and other researchers working with Mr. Chetty plan to re-examine those past government programs with the new data, which makes it possible to identify where children lived when they were exposed to those investments, and what happened to them afterward.
+
+If the answers are not clear yet, there is a hint of answers coming, now that we have fine-grained data on millions of children, now that cities alarmed by the results are taking notice, now that philanthropists are lining up to help.
+
+In Seattle, where all these pieces have converged, housing officials were recently driving past neighborhoods their map doesn’t identify, into “opportunity areas” where families have begun to move.
+
+“I believe the results of the data, but we all wish we knew what the distinguishing attributes are, so that we could build them in other neighborhoods,” said Andria Lazaga, the director of policy and strategic initiatives with the Seattle Housing Authority. “That’s the dream — to figure that out.”

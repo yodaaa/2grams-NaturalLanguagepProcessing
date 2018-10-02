@@ -1,0 +1,29 @@
+doc list
+1. https://www.nytimes.com/2018/10/01/us/politics/nafta-deal-trump-canada-mexico.html?action=click&module=Top%20Stories&pgtype=Homepage
+1516 words
+
+2. https://www.nytimes.com/2018/10/01/world/asia/tsunami-indonesia.html?action=click&module=Top%20Stories&pgtype=Homepage
+1413 words
+
+3. https://www.nytimes.com/2018/10/01/upshot/maps-neighborhoods-shape-child-poverty.html?action=click&module=Top%20Stories&pgtype=Homepage
+1619 words
+
+4. https://www.nytimes.com/2018/09/28/technology/facebook-hack-data-breach.html?rref=collection%2Fsectioncollection%2Ftechnology&action=click&contentCollection=technology&region=rank&module=package&version=highlights&contentPlacement=2&pgtype=sectionfront
+1168 words
+
+5. https://www.nytimes.com/2018/09/28/technology/google-pichai-congress-testify.html?rref=collection%2Fsectioncollection%2Ftechnology&action=click&contentCollection=technology&region=stream&module=stream_unit&version=latest&contentPlacement=7&pgtype=sectionfront
+531 words
+
+6. https://www.nytimes.com/2018/10/01/world/africa/melania-trump-africa-trip.html?action=click&module=In%20Other%20News&pgtype=Homepage&action=click&module=News&pgtype=Homepage
+1109 words
+
+7. https://www.nytimes.com/2018/10/01/us/politics/biden-2020-anita-hill-kavanaugh.html?action=click&module=Top%20Stories&pgtype=Homepage
+1109 words
+
+8. https://www.nytimes.com/2018/10/01/business/tesla-cars-questions.html?action=click&module=In%20Other%20News&pgtype=Homepage&action=click&module=News&pgtype=Homepage
+1390 words
+
+9. https://www.nytimes.com/2018/09/30/dining/what-to-cook-this-week.html?fallback=0&recId=1B0err1M0stYB4XKOvk3N0qjf4p&locked=0&geoContinent=AS&geoRegion=17&recAlloc=contextual-bandit-home&geoCountry=JP&blockId=home-living-vi&imp_id=230137498&action=click&module=Smarter%20Living&pgtype=Homepage
+651 words
+
+sum 10506 words 
