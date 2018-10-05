@@ -8,14 +8,20 @@ class String
   end
 end
 
-
 #ファイル読み込み&2-gram計算
-f = File.open("doc1.txt")
-str = f.read
-gramstr = str.to_ngram(2)
-#puts 2gramstr
-#puts "t".ord
-f.close
+def readFile(filename)
+  f = File.open(filename)
+  str = f.read
+  gramstr = str.to_ngram(2)
+  #puts 2gramstr
+  #puts "t".ord
+  f.close
+  return gramstr
+end
+
+
+#ファイル読み込み
+gramstr = readFile("doc1.txt")
 
 #配列化
 table = [*'aa'..'zz']
