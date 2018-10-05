@@ -9,7 +9,7 @@ class String
 end
 
 #ファイル読み込み&2-gram計算&csv
-def method2gram(filename)
+def method2gram(filename, output_filename)
   f = File.open(filename)
   str = f.read
   gramstr = str.to_ngram(2)
@@ -38,7 +38,7 @@ def method2gram(filename)
   num2 = 0
   abctable = [*'a'..'z']
   csvtable = []
-  CSV.open("result_2gram.csv", "wb") do |test|
+  CSV.open(output_filename, "wb") do |test|
     #test << ["/", *'a'..'z']
     test << [*'a'..'z']
     #csvtable = abctable[num2]
@@ -59,4 +59,6 @@ end
 
 
 #ファイル読み込み
-method2gram("doc1.txt")
+9.times do |file|
+  method2gram("doc#{file+1}.txt", "result_2gram_doc#{file+1}.csv")
+end
