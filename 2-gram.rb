@@ -40,7 +40,7 @@ def method2gram(filename, output_filename)
   csvtable = []
   CSV.open(output_filename, "wb") do |test|
     #test << ["/", *'a'..'z']
-    test << [*'a'..'z']
+    #test << [*'a'..'z']
     #csvtable = abctable[num2]
     gramtable.each do |i|
       #print sprintf("%03d, ",i)
@@ -57,8 +57,43 @@ def method2gram(filename, output_filename)
 
 end
 
+def result_2gram(input_filename)
+  row_all = []
+  row_hoge = []
+  CSV.foreach("result_2gram.csv") do |row|
+    26.times do |i|
+      row_all << row[i].to_i
+      #p row_all
+    end
+  end
+
+  CSV.foreach(input_filename) do |row|
+    26.times do |i|
+      row_hoge << row[i].to_i
+      #p row_hoge
+    end
+  end
+
+  675.times do |i|
+    row_all << row_all[i] + row_hoge[i]
+  end
+  p row_all
+
+  CSV.open("result_2gram", "wb") do |test|
+
+  end
+end
+
 
 #ファイル読み込み
 9.times do |file|
   method2gram("doc#{file+1}.txt", "result_2gram_doc#{file+1}.csv")
 end
+
+#結果csvファイル合算
+9.times do |file|
+  result_2gram("result_2gram_doc#{file+1}.csv")
+end
+
+#合算csvファイル合算
+method2gram("doc.txt", "result_2gram_doc.csv")
