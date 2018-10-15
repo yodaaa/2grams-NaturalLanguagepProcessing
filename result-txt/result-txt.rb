@@ -11,7 +11,7 @@ end
 
 # 品詞頻度カウント
 partof　= Array["動詞","形容詞","形容動詞","名詞","副詞","連体詞","接続詞","感動詞","助詞","助動詞","記号"]
-cnt = Array.new(12, 0) # 動詞,形容詞,形容動詞,名詞,副詞,連体詞,接続詞,感動詞,助詞,助動詞,記号
+cnt = Array.new(11, 0) # 動詞,形容詞,形容動詞,名詞,副詞,連体詞,接続詞,感動詞,助詞,助動詞,記号
 AbcOfPartOfSpeech = ""
 NumOfPartOfSpeech = ""
 
@@ -24,12 +24,11 @@ File.open("result.txt", mode = "rt"){|f|
         p line.slice(i)
         p count
         cnt[count] = cnt[count] + 1
+        puts "cnt: #{cnt[count]}"
         abc = [*'a'..'k']
         AbcOfPartOfSpeech << abc[count]
         NumOfPartOfSpeech << count.to_s
-        count = 0
       end
-      count = count +1
     }
   }
   puts "品詞頻度: #{cnt}"
@@ -40,19 +39,22 @@ File.open("result.txt", mode = "rt"){|f|
 gramstr = AbcOfPartOfSpeech.to_ngram(2)
 #puts gramstr
 #配列化
-table = [*'aa'..'kk']
+table = [*'aa'..'ak', *'ba'..'bk', *'ca'..'ck', *'da'..'dk', *'ea'..'ek', *'fa'..'fk',
+   *'ga'..'gk', *'ha'..'hk', *'ia'..'ik', *'ja'..'jk', *'ka'..'kk']
 #puts table[675] # table[0] => aa  table[26] => ba fin[675]
 num = 0
 gramtable = Array.new(121, 0)
 gramtable.map!(&:to_i)
+
 table.each do |i|
+  puts "i:#{i},  num:#{num}"
   gramstr.each do |j|
-    if i == j && num <121
-      puts "gramtable: #{gramtable[num]}"
-      gramtable[num] = gramtable[num]+  1
+    if i == j && num < 122
+      puts "gramtable#{num}: #{gramtable[num]}, i: #{i}, j: #{j}"
+      gramtable[num] = gramtable[num] +  1
     end
   end
-  num = num +1
+  num = num + 1
 end
 
 #csv書き込み
