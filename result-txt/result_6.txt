@@ -1,0 +1,201 @@
+・品詞の頻度をカウント
+------------------------------------
+動詞 : 371
+形容詞 : 17
+形容動詞 : 0
+名詞 : 1030
+副詞 : 29
+連体詞 : 23
+接続詞 : 10
+感動詞 : 0
+助詞 : 772
+助動詞 : 221
+記号 : 368
+------------------------------------
+
+品詞アルファベット化文字列: diaikddiidikkdkiajkgkkdkidikdididdiaiadjjikfdidididdiaiadikdiddidiaiaieiiidiadiajjikdiikdiddiaikeididikdiadiajkdiaikddkidadiddiaiajjkdddkddikdidajikddjdiaiaibdiaiajkkddkidiikkdkidaaiadiajkkddkkkddkiidiaaiajikkddkidiedidjkddajikddkidiaaiadjjkgkkddkidiikkddkkkddkkkddkieddakkddkikddkidieaaiajjkdiikkdkikdkikdkadjjiikkdkigkdkikdkadjijdjkkdkiddikddkiddiaidaaiadikddidididajdjiaakfdiddifdidadibkkdkikdkiidiakkdkikdkiidajdjjjiaajkkdiikfkdkikdkikdididididdididajiaiajkdidkdddddddiaikdddidddikkddkiaaeddaaiajdiidikkddkiaadjdkdkdidaadiiakdidaakddidaidaiadkdkddddidaajjkddkkdkdddiikddddiddidajddjdiddikdkidaakdidddidddididaadiajjkkgkdidddidddddiddiaddddddiikdidjdkdkiaiajkkfdiaikkdkiikdiidajddiakkdkikddkddidiaiaaiajkdidiidiaadidaiadjkgekfkdkiadiididiaiajkkdidkdikbdidaadikdididdiaikddiddididakdidaadidiaiajkjikfddiddiiedjdjjikddiidiidajdjjkddiididadjjiaaiajkeaikdkdiaiadiaiaddiddiddiidkkddkiaajkjjkdidifdiaiaddiddiddiidkkddkiaajkidiajkddiikadiiadidididiibiaaikddidiaiaiiaikgeijdjkfdikdidjkkdiediaadikdidiijkdididjdjkdajjdjdidkdadiaikdidiaiajdikedidakdiakdidikbdidddiadiadiajkfdjdiddiddidjddidikdididadidaadiaiaajkeajdidiaikdididdiddiididjjkgdididididddidikdididdididiaaiajikdidikddiddiiddididjijdiaajkfdkdididaiaabkakiajkdiddiaaiajdidifdjkkeddiaiajdikddiikdiajdkddiddidjdjkidiajdkdidiajdibiajjkiddiaidjkdididdkdididdiadiaikdiddikdididikdidiedidiaikdiaiaiadjkkdkaiajiajdjdjkgkdiddikdiddikdiikdidjdiaajkdikdkeddajiaaiajdidjikdibdiaaiadjjikddidiidiaididjdidaddiaiadjkgkkkkdididikefdiididiajikkidjkfdidiaddidiaiadikddieadjkdikddididakdiidadjdiaiaikeajddiadiadjkfdididjdjikddidadikdiddaaiajkfdjddiddiakdikdkadididjkkdikadkiddididaikdidikakiadiikdddidikadkidjkdiddidadiikdaabdieajdidaidadiajikddibkdibdjjjidiadididajikddibifddibakdajdiaiajkdiikdiddiieiajddididajikdjddidaikdidajdidididadjdiaaiajkdidikkadkididjjkdiddididdiadiadiajikdidjdjjiajkgkdiddiadidibkddiadidjddidaaiajkdikdidididajkddddddiaaiadkdiabaddjkdiddiikddaaiaddididajjikdiddiikdidiaaiadkediaaiadidadiajkeadidaaiadifieiidaiddidadiajikdikfdidiaiidididiajkdddddididikaiadiaiddaiddiaiadjkfddiddjdidadidjkddddddidiadididikdididididiadibdididadjkdieiadikddididiaiajkddddddajdidaikdidadiddidididadjkdiddiddiajkdddddddidididjdiidajkdadiaiaikdidadidjdjkddddddddiddiakdadidaidadjkdididadiajkkdiddikddidadidiaikekaddididadikdidididjddjddidiajkddididibdjikdidaiddidiakdiikdkdaaiajddjdidjdiidadidiajjkkdiikdididaikakiadikadkidiaiajjikeajkadkidadiikdiddjdidiadidjkdiikdddidaaiaddiddjjddddddiajddididdddddiiddjddiiddddiaakddidiaiajkdkdiaidaajdididdiiaiadidaakddiidjddidikddjdidaakdididididiaiajjkkdidkddidaajdidkdkdiiddaajdididadiikedidiadiajkdiikddiddaajdijjkdiddjdidadiididdadidiajjkddjdifddijijdidadidikedidiadjjiidiijjjkddiiddiaiajkfdiddkddkddkdkddkddiddkddkddikdiddidifdiaiadidididdiaajkkdidddiajdikdiidjadidiajkdiidiikkdkikdkikddkddjdiaiajiajkdidikdidjjdiddddidajkaididdiddididakdiddjdidddjdididaiadjk
+
+------------------------------------
+
+・品詞バイグラムをカウント
+
+["52", "3", "0", "101", "1", "0", "0", "0", "98", "94", "22"]
+
+["2", "0", "0", "8", "0", "0", "0", "0", "3", "0", "4"]
+
+["0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"]
+
+["92", "0", "0", "255", "0", "0", "0", "0", "517", "84", "82"]
+
+["8", "0", "0", "12", "0", "1", "0", "0", "6", "0", "2"]
+
+["0", "0", "0", "20", "0", "0", "0", "0", "1", "0", "2"]
+
+["0", "0", "0", "1", "2", "0", "0", "0", "0", "0", "7"]
+
+["0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"]
+
+["200", "12", "0", "344", "12", "7", "1", "0", "66", "8", "122"]
+
+["1", "0", "0", "71", "0", "0", "0", "0", "34", "33", "82"]
+
+["16", "2", "0", "217", "14", "15", "9", "0", "47", "2", "45"]
+
+------------------------------------
+
+・それぞれの品詞について、連続する品詞の確率を計算
+
+- - -
+・動詞
+
+0.14016172506738545, 
+0.008086253369272238, 
+0.0, 
+0.2722371967654987, 
+0.0026954177897574125, 
+0.0, 
+0.0, 
+0.0, 
+0.2641509433962264, 
+0.25336927223719674, 
+0.05929919137466307, 
+- - -
+・形容詞
+
+0.11764705882352941, 
+0.0, 
+0.0, 
+0.47058823529411764, 
+0.0, 
+0.0, 
+0.0, 
+0.0, 
+0.17647058823529413, 
+0.0, 
+0.23529411764705882, 
+- - -
+・形容動詞
+
+0.0, 
+0.0, 
+0.0, 
+0.0, 
+0.0, 
+0.0, 
+0.0, 
+0.0, 
+0.0, 
+0.0, 
+0.0, 
+- - -
+・名詞
+
+0.08932038834951456, 
+0.0, 
+0.0, 
+0.24757281553398058, 
+0.0, 
+0.0, 
+0.0, 
+0.0, 
+0.5019417475728155, 
+0.08155339805825243, 
+0.07961165048543689, 
+- - -
+・副詞
+
+0.27586206896551724, 
+0.0, 
+0.0, 
+0.41379310344827586, 
+0.0, 
+0.034482758620689655, 
+0.0, 
+0.0, 
+0.20689655172413793, 
+0.0, 
+0.06896551724137931, 
+- - -
+・連体詞
+
+0.0, 
+0.0, 
+0.0, 
+0.8695652173913043, 
+0.0, 
+0.0, 
+0.0, 
+0.0, 
+0.043478260869565216, 
+0.0, 
+0.08695652173913043, 
+- - -
+・接続詞
+
+0.0, 
+0.0, 
+0.0, 
+0.1, 
+0.2, 
+0.0, 
+0.0, 
+0.0, 
+0.0, 
+0.0, 
+0.7, 
+- - -
+・感動詞
+
+0.0, 
+0.0, 
+0.0, 
+0.0, 
+0.0, 
+0.0, 
+0.0, 
+0.0, 
+0.0, 
+0.0, 
+0.0, 
+- - -
+・助詞
+
+0.25906735751295334, 
+0.015544041450777202, 
+0.0, 
+0.44559585492227977, 
+0.015544041450777202, 
+0.009067357512953367, 
+0.0012953367875647669, 
+0.0, 
+0.08549222797927461, 
+0.010362694300518135, 
+0.15803108808290156, 
+- - -
+・助動詞
+
+0.004524886877828055, 
+0.0, 
+0.0, 
+0.3212669683257919, 
+0.0, 
+0.0, 
+0.0, 
+0.0, 
+0.15384615384615385, 
+0.1493212669683258, 
+0.37104072398190047, 
+- - -
+・記号
+
+0.043596730245231606, 
+0.005449591280653951, 
+0.0, 
+0.5912806539509536, 
+0.03814713896457766, 
+0.04087193460490463, 
+0.02452316076294278, 
+0.0, 
+0.12806539509536785, 
+0.005449591280653951, 
+0.1226158038147139, 
