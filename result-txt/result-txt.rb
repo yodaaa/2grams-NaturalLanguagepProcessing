@@ -124,7 +124,7 @@ table = [*'aa'..'al', *'ba'..'bl', *'ca'..'cl', *'da'..'dl', *'ea'..'el', *'fa'.
       ptable = []
     end
   end
-  puts "sum: #{sum.compact!}"
+  #puts "sum: #{sum.compact!}"
 
   ptable = []
   gramtable.each_with_index do |i, count|
@@ -143,5 +143,5 @@ table = [*'aa'..'al', *'ba'..'bl', *'ca'..'cl', *'da'..'dl', *'ea'..'el', *'fa'.
     end
 
     #print "#{probabilityOfSuccessivePartsOfSpeech[count]}, "
-    file_output("・#{part_of_speech[count %12]} : #{sprintf("%.4f", probabilityOfSuccessivePartsOfSpeech[count]*100)}% ")
+    file_output("・#{part_of_speech[count %12]} : #{sprintf("%.4f", probabilityOfSuccessivePartsOfSpeech[count])} ")
   end
