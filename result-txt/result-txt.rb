@@ -16,7 +16,7 @@ def file_output(content)
 end
 
 # 品詞頻度カウント
-cnt = Array.new(11, 0) # 動詞,形容詞,形容動詞,名詞,副詞,連体詞,接続詞,感動詞,助詞,助動詞,記号
+cnt = Array.new(12, 0) # 動詞,形容詞,形容動詞,名詞,副詞,連体詞,接続詞,感動詞,助詞,助動詞,記号
 AbcOfPartOfSpeech = ""
 
 File.open("result_6.txt", mode = "w"){|f|
@@ -24,11 +24,10 @@ File.open("result_6.txt", mode = "w"){|f|
 }
 
 File.open("result.txt", mode = "rt"){|f|
-  part_of_speech = ["動詞","形容詞","形容動詞","名詞","副詞","連体詞","接続詞","感動詞","助詞","助動詞","記号"]
+  part_of_speech = ["動詞","形容詞","形容動詞","名詞","副詞","連体詞","接続詞","感動詞","助詞","助動詞","記号", "接頭詞"]
   f.each_line{|line|
     #p line
-
-    ["動詞","形容詞","形容動詞","名詞","副詞","連体詞","接続詞","感動詞","助詞","助動詞","記号"].each_with_index { |i, count|
+    ["動詞","形容詞","形容動詞","名詞","副詞","連体詞","接続詞","感動詞","助詞","助動詞","記号", "接頭詞"].each_with_index { |i, count|
       if line != nil && line.slice("EOS") != "EOS"
         array = line.split
         #puts array
@@ -38,7 +37,7 @@ File.open("result.txt", mode = "rt"){|f|
         if array[0] == i #一致した場合
           cnt[count] = cnt[count] + 1
           #puts "cnt: #{cnt[count]}"
-          abc = [*'a'..'k']
+          abc = [*'a'..'l']
           AbcOfPartOfSpeech << abc[count]
         end
       end
@@ -68,16 +67,16 @@ File.open("result.txt", mode = "rt"){|f|
 gramstr = AbcOfPartOfSpeech.to_ngram(2)
 #puts gramstr
 #配列化
-table = [*'aa'..'ak', *'ba'..'bk', *'ca'..'ck', *'da'..'dk', *'ea'..'ek', *'fa'..'fk',
-  *'ga'..'gk', *'ha'..'hk', *'ia'..'ik', *'ja'..'jk', *'ka'..'kk']
+table = [*'aa'..'al', *'ba'..'bl', *'ca'..'cl', *'da'..'dl', *'ea'..'el', *'fa'..'fl',
+  *'ga'..'gl', *'ha'..'hl', *'ia'..'il', *'ja'..'jl', *'ka'..'kl', *'la'..'ll']
 
   num = 0
-  gramtable = Array.new(121, 0)
+  gramtable = Array.new(144, 0)
   gramtable.map!(&:to_i)
 
   table.each do |i|
     gramstr.each do |j|
-      if i == j && num < 122
+      if i == j && num < 144
         #puts "gramtable#{num}: #{gramtable[num]}, i: #{i}, j: #{j}"
         gramtable[num] = gramtable[num] +  1
       end
@@ -87,7 +86,7 @@ table = [*'aa'..'ak', *'ba'..'bk', *'ca'..'ck', *'da'..'dk', *'ea'..'ek', *'fa'.
 
   #csv書き込み
   num =1
-  abctable = [*'a'..'k']
+  abctable = [*'a'..'l']
   csvtable = []
 
   file_output("・品詞バイグラムをカウント\n")
@@ -95,7 +94,7 @@ table = [*'aa'..'ak', *'ba'..'bk', *'ca'..'ck', *'da'..'dk', *'ea'..'ek', *'fa'.
     gramtable.each do |i|
       #print sprintf("%03d, ", i)
       csvtable.push("#{i}")
-      if num % 11 == 0
+      if num % 12 == 0
         #puts
         test <<  csvtable
         file_output("#{csvtable}\n")
@@ -120,8 +119,8 @@ table = [*'aa'..'ak', *'ba'..'bk', *'ca'..'ck', *'da'..'dk', *'ea'..'ek', *'fa'.
   file_output("・それぞれの品詞について、連続する品詞の確率を計算\n")
   gramtable.each_with_index do |i, count|
     ptable.push(i)
-    if ptable.length == 11 && count != 0
-      sum[(count/10)-1] = ptable.inject(:+)
+    if ptable.length == 12 && count != 0
+      sum[(count/11)-1] = ptable.inject(:+)
       ptable = []
     end
   end
@@ -130,17 +129,17 @@ table = [*'aa'..'ak', *'ba'..'bk', *'ca'..'ck', *'da'..'dk', *'ea'..'ek', *'fa'.
   ptable = []
   gramtable.each_with_index do |i, count|
     ptable.push(i)
-    if sum[count/11] == 0 then
+    if sum[count/12] == 0 then
       probabilityOfSuccessivePartsOfSpeech[count] = 0.0
     else
       probabilityOfSuccessivePartsOfSpeech[count] = ptable[count]/sum[(count)/11].to_f
     end
   end
 
-  part_of_speech = ["動詞","形容詞","形容動詞","名詞","副詞","連体詞","接続詞","感動詞","助詞","助動詞","記号"]
+  part_of_speech = ["動詞","形容詞","形容動詞","名詞","副詞","連体詞","接続詞","感動詞","助詞","助動詞","記号", "接頭詞"]
   probabilityOfSuccessivePartsOfSpeech.each_with_index do |i, count|
-    if count % 11 == 0 || count == 0
-      file_output("- - -\n・#{part_of_speech[(count/11)]}\n")
+    if count % 12 == 0 || count == 0
+      file_output("- - -\n・#{part_of_speech[(count/12)]}\n")
     end
 
     #print "#{probabilityOfSuccessivePartsOfSpeech[count]}, "

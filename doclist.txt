@@ -1,4 +1,7 @@
 doc list
+- - - - -
+英語
+- - - - -
 1. https://www.nytimes.com/2018/10/01/us/politics/nafta-deal-trump-canada-mexico.html?action=click&module=Top%20Stories&pgtype=Homepage
 1516 words
 
@@ -26,4 +29,32 @@ doc list
 9. https://www.nytimes.com/2018/09/30/dining/what-to-cook-this-week.html?fallback=0&recId=1B0err1M0stYB4XKOvk3N0qjf4p&locked=0&geoContinent=AS&geoRegion=17&recAlloc=contextual-bandit-home&geoCountry=JP&blockId=home-living-vi&imp_id=230137498&action=click&module=Smarter%20Living&pgtype=Homepage
 651 words
 
-sum 10506 words 
+sum 10506 words
+
+- - - - -
+
+- - - - -
+スペイン語
+- - - - -
+1. https://www.nytimes.com/es/2018/10/15/jamal-khashoggi-arabia-saudita/?action=click&clickSource=inicio&contentPlacement=1&module=toppers&region=rank&pgtype=Homepage
+2472 words
+
+2. https://www.nytimes.com/es/2018/10/15/sears-bancarrota-opinion/?action=click&clickSource=inicio&contentPlacement=2&module=toppers&region=rank&pgtype=Homepage
+1591 words
+
+3. https://www.nytimes.com/es/2018/10/15/opinon-corrupcion-venezuela-clap/?action=click&clickSource=inicio&contentPlacement=3&module=toppers&region=rank&pgtype=Homepage
+1332 words
+
+4. https://www.nytimes.com/es/2018/10/15/sao-paulo-museo-historia/?action=click&clickSource=inicio&contentPlacement=4&module=toppers&region=rank&pgtype=Homepage
+1765 words
+
+5. https://www.nytimes.com/es/2018/10/14/opinion-lopez-obrador-america-latina/?rref=collection%2Fsectioncollection%2Fnyt-es
+1267 words
+
+6. https://www.nytimes.com/es/2018/10/13/un-futuro-donde-todo-se-convierte-en-una-computadora-es-tan-perturbador-como-lo-temias/?rref=collection%2Fsectioncollection%2Fnyt-es
+1656 words
+
+
+sum 10083 word
+
+- - - - -

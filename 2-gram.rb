@@ -97,3 +97,4 @@ end
 
 #合算csvファイル合算
 method2gram("doc.txt", "result_2gram_doc.csv")
+method2gram("doc_espanol.txt", "result_2gram_doc_espanol.csv")
