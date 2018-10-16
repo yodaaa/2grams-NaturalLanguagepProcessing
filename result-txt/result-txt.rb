@@ -27,7 +27,7 @@ File.open("result.txt", mode = "rt"){|f|
   part_of_speech = ["動詞","形容詞","形容動詞","名詞","副詞","連体詞","接続詞","感動詞","助詞","助動詞","記号", "接頭詞"]
   f.each_line{|line|
     #p line
-    ["動詞","形容詞","形容動詞","名詞","副詞","連体詞","接続詞","感動詞","助詞","助動詞","記号", "接頭詞"].each_with_index { |i, count|
+    part_of_speech.each_with_index { |i, count|
       if line != nil && line.slice("EOS") != "EOS"
         array = line.split
         #puts array
@@ -132,7 +132,7 @@ table = [*'aa'..'al', *'ba'..'bl', *'ca'..'cl', *'da'..'dl', *'ea'..'el', *'fa'.
     if sum[count/12] == 0 then
       probabilityOfSuccessivePartsOfSpeech[count] = 0.0
     else
-      probabilityOfSuccessivePartsOfSpeech[count] = ptable[count]/sum[(count)/11].to_f
+      probabilityOfSuccessivePartsOfSpeech[count] = ptable[count]/sum[(count)/12].to_f
     end
   end
 
@@ -143,6 +143,5 @@ table = [*'aa'..'al', *'ba'..'bl', *'ca'..'cl', *'da'..'dl', *'ea'..'el', *'fa'.
     end
 
     #print "#{probabilityOfSuccessivePartsOfSpeech[count]}, "
-    file_output("#{probabilityOfSuccessivePartsOfSpeech[count]}, ")
-
+    file_output("・#{part_of_speech[count %12]} : #{sprintf("%.4f", probabilityOfSuccessivePartsOfSpeech[count]*100)}% ")
   end
